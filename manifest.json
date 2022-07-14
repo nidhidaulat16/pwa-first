@@ -1,7 +1,7 @@
 {
     "name": "dcode PWA example",
     "short_name": "PWA eg",
-    "id": "/pwa-first/"
+    "id": "/pwa-first/",
     "start_url": "./", 
     "background_color": "#6dcdb1",
     "theme_color": "#009578",
